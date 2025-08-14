@@ -15,11 +15,15 @@ For all up-to-date information and schematics, see the PDF:
 If you have suggestions, ideas, or would like to help in any way — your contribution is very **[welcome!](https://github.com/Ch-Tima/SWT_DeskClock/issues)**
 
 ## RUS
+
 Умные настольные часы на STM32F103
+
 Дата: 14.08.2025
+
 Что сейчас происходит
 
 Актуальная версия схемы — **[sh_v4b1](https://github.com/Ch-Tima/SWT_DeskClock/blob/test_sh_v4b/sh_v4b1.pdf)**.
+
 Сейчас тестирую всё это добро в ветке [test_sh_v4b](https://github.com/Ch-Tima/SWT_DeskClock/tree/test_sh_v4b).
 
 Нашёл несколько косяков и багов — проверяю, как их исправить.
